@@ -67,3 +67,7 @@ movie-recommendation-system/
 
 - **[MovieLens Dataset](https://www.kaggle.com/code/mrisdal/starter-movielens-20m-dataset-144a8ee2-e)**: The dataset used for training and evaluating the recommendation system.
 - **[Surprise Library Documentation](https://surprise.readthedocs.io/en/stable/)**: Detailed documentation on collaborative filtering algorithms.
+
+## Contributors
+- Alex Chavez
+- Kai Francis
