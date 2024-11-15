@@ -56,7 +56,7 @@ def get_movie_recommendations(user_id, num_recommendations=5):
     recommended_movie_ids = [int(pred.iid) for pred in recommendations]
     recommended_movies = movies[movies['movieId'].isin(recommended_movie_ids)]
 
-    return recommended_movies[['movieId', 'title', 'genre']]
+    return recommended_movies[['movieId', 'title']]
 
 # Test the recommendation function
 user_id = 1  # Example user ID
