@@ -69,5 +69,5 @@ movie-recommendation-system/
 - **[Surprise Library Documentation](https://surprise.readthedocs.io/en/stable/)**: Detailed documentation on collaborative filtering algorithms.
 
 ## Contributors
-- Alex Chavez
-- Kai Francis
+- Alex Chavez @alexchavez01
+- Kai Francis @KFrancis25
