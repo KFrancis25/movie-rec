@@ -51,11 +51,11 @@ print(recommended_movies)
 ```
 
 ### Project Structure
-movie-recommendation-system/
-├── movies.csv               # MovieLens movies data
-├── ratings.csv              # MovieLens ratings data
-├── movie_recommendation.py   # Main Python script for the recommendation system
-└── README.md                # Project documentation
+- **movie-recommendation-system/**
+  - `movies.csv`: MovieLens movies data.
+  - `ratings.csv`: MovieLens ratings data.
+  - `movie_recommendation.py`: Main Python script for the recommendation system.
+  - `README.md`: Project documentation.
 
 ## Future Improvements
 
